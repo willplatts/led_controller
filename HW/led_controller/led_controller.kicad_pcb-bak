@@ -3313,7 +3313,7 @@
       (net 1 GND))
   )
 
-  (gr_text "LED Controller V1.0" (at 131.1 45.225) (layer F.SilkS) (tstamp 5D565C6A)
+  (gr_text "LED Controller v1.0" (at 131.1 45.225) (layer F.SilkS) (tstamp 5D565C6A)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text github.com/willplatts/led_controller (at 140.675 49.775) (layer F.SilkS)
